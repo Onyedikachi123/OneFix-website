@@ -112,7 +112,7 @@ const Navbar: React.FC = () => {
             </li>
           </ul>
           <Link href="/contact">
-            <span className="mt-4 lg:mt-0 lg:ml-14 bg-[#0A2699] text-white py-2 px-4 rounded-md cursor-pointer text-md">
+            <span className="mt-4 lg:mt-0 lg:ml-14 bg-[#0A2699] text-white py-2 px-8 rounded-2xl cursor-pointer text-md hover:bg-[#FEC32C]">
               Contact
             </span>
           </Link>

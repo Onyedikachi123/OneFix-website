@@ -9,7 +9,7 @@ const ServicesSection: React.FC = () => {
         <h4 className="text-5xl font-bold animate__animated animate__zoomIn">Our Services</h4>
       </div>
       <div className="container mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 px-16 animate__animated animate__zoomIn">
-        <div className="bg-bprimary text-textlightGray py-8 px-4 rounded-lg flex flex-col items-center justify-center">
+        <div className="bg-bprimary text-textlightGray py-8 px-4 rounded-3xl flex flex-col items-center justify-center cursor-pointer hover:bg-[#4B69E8]">
         <Image
             src="/plumbing.png"
             alt="tapIcon"
@@ -20,7 +20,7 @@ const ServicesSection: React.FC = () => {
           <h5 className="text-3xl font-medium mb-2">Plumbing</h5>
           <p className="text-center text-sm font-normal">We fix leaks, clogs, toilets, faucets, disposals, and water heaters. Emergency services available 24/7</p>
         </div>
-        <div className="bg-bprimary text-textlightGray py-8 px-4 rounded-lg flex flex-col items-center justify-center">
+        <div className="bg-bprimary text-textlightGray py-8 px-4 rounded-3xl flex flex-col items-center justify-center cursor-pointer hover:bg-[#4B69E8]">
         <Image
             src="/heater.png"
             alt="heaterIcon"
@@ -31,7 +31,7 @@ const ServicesSection: React.FC = () => {
           <h5 className="text-3xl font-medium mb-2">Heating</h5>
           <p className="text-center text-sm font-normal">We service and install furnaces, boilers, heaters, and thermostats to keep you warm.</p>
         </div>
-        <div className="bg-bprimary text-textlightGray py-8 px-4 rounded-md flex flex-col items-center justify-center">
+        <div className="bg-bprimary text-textlightGray py-8 px-4 rounded-3xl flex flex-col items-center justify-center cursor-pointer hover:bg-[#4B69E8]">
         <Image
             src="/flame.png"
             alt="flameIcon"
@@ -42,7 +42,7 @@ const ServicesSection: React.FC = () => {
           <h5 className="text-3xl font-medium mb-2">Gas fitting</h5>
           <p className="text-center text-sm font-normal">Our licensed professionals handle gas line installations, repairs for appliances, and leak detection for your safety.</p>
         </div>
-        <div className="bg-bprimary text-textlightGray py-8 px-4 rounded-md flex flex-col items-center justify-center">
+        <div className="bg-bprimary text-textlightGray py-8 px-4 rounded-3xl flex flex-col items-center justify-center cursor-pointer hover:bg-[#4B69E8]">
         <Image
             src="/driver.png"
             alt="driverIcon"

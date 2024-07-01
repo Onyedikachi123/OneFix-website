@@ -15,7 +15,7 @@ const BlogPost = () => {
       <div className="flex justify-center mt-4">
         <Link
           href="/blog"
-          className="bg-bprimary text-white py-2 px-12 rounded-lg font-normal text-sm"
+          className="bg-bprimary text-white py-2 px-12 rounded-2xl font-normal text-sm hover:bg-[#FEC32C]"
         >
           View our Blog
         </Link>

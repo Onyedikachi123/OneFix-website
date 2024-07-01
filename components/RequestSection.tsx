@@ -21,7 +21,7 @@ const RequestSection: React.FC = () => {
         </p>
         <Link
           href="/contact"
-          className="inline-block mt-4 border-2 border-[#0A2699] text-black py-2 px-4 rounded-full font-normal text-base"
+          className="inline-block mt-4 border-2 border-[#0A2699] text-black py-2 px-4 rounded-full font-normal text-base hover:bg-[#FEC32C] hover:border-[#FEC32C] hover:text-[#fff]"
         >
           Request a plumber
         </Link>

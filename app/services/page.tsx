@@ -145,7 +145,7 @@ const Service = () => {
           </ul>
           <div className="text-center">
             <Link href="/contact">
-              <button className="mt-4 bg-[#0A2699] text-white py-2 px-4 rounded-lg animate__animated animate__zoomIn">
+              <button className="mt-4 bg-[#0A2699] text-white py-2 px-8 rounded-2xl cursor-pointer hover:bg-[#FEC32C] animate__animated animate__zoomIn">
                 Contact Us
               </button>
             </Link>
@@ -233,7 +233,7 @@ const Service = () => {
           </ul>
           <div className="text-center">
             <Link href="/contact">
-              <button className="mt-4 bg-[#0A2699] text-white py-2 px-4 rounded-lg">
+              <button className="mt-4 bg-[#0A2699] text-white py-2 px-8 rounded-2xl cursor-pointer hover:bg-[#FEC32C]">
                 Contact Us
               </button>
             </Link>
@@ -315,7 +315,7 @@ const Service = () => {
           </ul>
           <div className="text-center">
             <Link href="/contact">
-              <button className="mt-4 bg-[#0A2699] text-white py-2 px-4 rounded-lg">
+              <button className="mt-4 bg-[#0A2699] text-white py-2 px-8 rounded-2xl cursor-pointer  hover:bg-[#FEC32C]">
                 Contact Us
               </button>
             </Link>
@@ -385,7 +385,7 @@ const Service = () => {
           </ul>
           <div className="text-center">
             <Link href="/contact">
-              <button className="mt-4 bg-[#0A2699] text-white py-2 px-4 rounded-lg">
+              <button className="mt-4 bg-[#0A2699] text-white py-2 px-8 rounded-2xl cursor-pointer  hover:bg-[#FEC32C]">
                 Contact Us
               </button>
             </Link>

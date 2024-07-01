@@ -47,7 +47,7 @@ const ContactForm: React.FC = () => {
           <div className="text-start">
             <button
               type="submit"
-              className="bg-bprimary text-white py-2 px-12 rounded-lg font-normal text-xs"
+              className="bg-bprimary text-white py-2 px-12 rounded-2xl font-normal text-xs hover:bg-[#FEC32C]"
             >
               Submit
             </button>

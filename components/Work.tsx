@@ -34,7 +34,7 @@ const Work: React.FC = () => {
       </div>
       <div className="text-center mt-8">
         <Link href="#">
-          <button className="bg-bprimary text-white py-2 px-12 rounded-lg font-normal text-sm">
+          <button className="bg-bprimary text-white py-2 px-12 rounded-2xl font-normal text-sm hover:bg-[#FEC32C]">
             View more
           </button>
         </Link>
